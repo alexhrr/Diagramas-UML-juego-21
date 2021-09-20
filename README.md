@@ -1,6 +1,7 @@
 # Diagramas-UML-juego-21
 
 Integrantes:
+
 Alex Humberto Rodriguez Rueda - 20181020088
 
 Juan Diego Hernández Amaya - 20181020097
